@@ -1,12 +1,12 @@
 ---
-title: "How I Built My Blog Using Gatsby and Netlify"
-date: "2018-05-28"
-path: "/how-i-built-my-blog-using-gatsby-and-netlify"
+title: "Тестовый постик"
+date: "19.06.2018"
+path: "/test-post"
 ---
 
-# Can you name a more iconic duo? 🤔
+# Как открыть ИП в 2018? 🤔
 
-Years ago, when I would build a static website, I wouldn't use any fancy frameworks or build tools. The only thing I would bring into my projects would be jQuery or if I was feeling extra fancy I would use Sass.
+В интернете очень много статей которые хотя тпослать вас на хуй со своей рекламой
 
 Nowadays, we have tools like Gatsby and Netlify which greatly improve the experience of building static websites. Rather than thinking about boilerplate and configuration (looking at you Webpack) you can just focus on your application.
 
